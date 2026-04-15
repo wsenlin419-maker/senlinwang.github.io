@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I am an undergraduate student at Qingdao University in China, majoring in International Business. My academic journey is deeply rooted in the social sciences, specifically exploring the rich intersections of sociolinguistics and linguistic anthropology.
+Welcome to my personal website! I am an undergraduate student at [Qingdao University in China](https://www.qdu.edu.cn/), majoring in International Business. My academic journey is deeply rooted in the social sciences, specifically exploring the rich intersections of sociolinguistics and linguistic anthropology.
 
 My primary research focuses on linguistic hybridity and identity politics. Through multi-sited ethnographic fieldwork, I conduct comparative studies across multiple age cohorts—particularly to understand how dialect interaction reflects broader socioeconomic shifts.
 
